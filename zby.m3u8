@@ -1,0 +1,352 @@
+#EXTM3U山东
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/4/224/3221228060/index.m3u8
+
+#EXTINF:-1 ,民視[1280*720]
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 ,台視[1280*720]
+http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 ,中視新聞[1280*720]
+http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 ,華視[1280*720]
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+
+#EXTINF:-1 ,三立臺灣[1920*1080]
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 ,JET綜合[1920*1080]
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+#EXTINF:-1 ,中天綜合[1920*1080]
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+
+
+#EXTINF:-1 ,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰香港
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 ,CCTV-1高清
+http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV-4高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV-5+高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 ,CCTV-7高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV-8高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV-9高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV-11高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV-12高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 ,CCTV-13高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV-14高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 ,CCTV-15高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV-16高清
+http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
+#EXTINF:-1 ,CCTV-17高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 ,北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,吉林卫视
+rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
+#EXTINF:-1 ,黑龙江卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,延边卫视
+http://live.ybtvyun.com/video/s10006-602e81246858/index.m3u8
+#EXTINF:-1 ,河北卫视
+https://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
+#EXTINF:-1 ,河南卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221228221/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://39.135.32.25:6610/000000001000/1000000001000012807/index.m3u8?i
+#EXTINF:-1 ,山西卫视
+http://140.207.241.2:8080/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://182.254.52.15/keonline.shanghai.liveplay.qq.com/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
+#EXTINF:-1 ,甘肃卫视
+https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+#EXTINF:-1 ,重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 ,云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 ,贵州卫视
+http://117.187.7.224/hls-qnlo-live.gzstv.com/livegztv-lo/CH01_lo.m3u8?s=610e9929e0712a8daa8a99f1ac058b4e&ts=61e9fd16
+#EXTINF:-1 ,四川卫视
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 ,广西卫视
+https://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,厦门卫视
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 ,深圳东部
+http://liveplay.sznews.com/66_norecord_live/343.m3u8
+#EXTINF:-1 ,东方影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+
+#EXTINF:-1 ,凤凰卫视
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 ,香港C
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 ,京视剧场
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 ,CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 ,SiTV动漫秀场 1080
+http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场 1080
+http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV法治天地 540
+http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场 1080
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育 1080
+http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV金色频道 540
+http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车 1080
+http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球 1080
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV七彩戏剧 540
+http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实 1080
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚 1080
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩 1080
+http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉 1080
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云 1080
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,求索生活FHD
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索动物FHD
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,NewTV功夫剧场
+http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
+#EXTINF:-1 ,NewTV爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 ,NewTV惊悚悬疑FHD
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 ,NewTV超级体育FHD
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,NewTV动画王国
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,NewTV东北热剧FHD
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 ,NewTV欢乐剧场
+http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
+#EXTINF:-1 ,NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 ,NewTV搏击运动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳门2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳门1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳门奥视
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳门葡语
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 ,澳门资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:-1 ,CCTV1HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 ,CCTV2HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 ,CCTV3HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 ,CCTV4HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:-1 ,CCTV5HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 ,CCTV6HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:-1 ,CCTV7HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+#EXTINF:-1 ,CCTV8HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:-1 ,CCTV9HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 ,CCTV10HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 ,CCTV11HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 ,CCTV12HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 ,CCTV13HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+#EXTINF:-1 ,CCTV14HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 ,CCTV15HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 ,CCTV17HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 ,云南卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,冬奥纪实HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 ,河南卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 ,吉林卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 ,宁陕电视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 ,陕西都市HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 ,陕西卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 ,陕西新闻HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://101.71.76.222/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+
